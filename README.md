@@ -3,8 +3,8 @@ asteroid-race-robovm
 
 RoboVM port of Asteroid race JavaFX (https://github.com/noxo/asteroidrace-javafx)
 
-Short guide to compile & run on Mac + Mavericks
-===============================================
+How-to compile & run on Mac (Mavericks OS):
+
 1. Get XCode 5
 2. Get Eclipse 
 3. Install RoboVM Eclipse Plugin (http://download.robovm.org/eclipse/)
